@@ -1,0 +1,7 @@
+{"repo": "org/repo-yyy", "pr_number": 23232, "author_type": "agent", "ci_skipped": true, "ingested_at": 1795380073.2157161, "kinesis_seq": "1795296782380", "kinesis_shard": "shardId-000000000002"}
+{"repo": "org/repo-xxx", "pr_number": 23232, "author_type": "human", "ci_skipped": false, "ingested_at": 1795380374.8446422, "kinesis_seq": "1795296782381", "kinesis_shard": "shardId-000000000002"}
+{"repo": "org/repo-yyy", "pr_number": 23232, "author_type": "agent", "ci_skipped": true, "ingested_at": 1795380374.859631, "kinesis_seq": "1795296782382", "kinesis_shard": "shardId-000000000002"}
+{"repo": "org/repo-xxx", "pr_number": 23232, "author_type": "human", "ci_skipped": false, "ingested_at": 1795380554.109778, "kinesis_seq": "1795296782383", "kinesis_shard": "shardId-000000000002"}
+{"repo": "org/repo-yyy", "pr_number": 23232, "author_type": "agent", "ci_skipped": true, "ingested_at": 1795380554.120079, "kinesis_seq": "1795296782384", "kinesis_shard": "shardId-000000000002"}
+{"repo": "org/repo-zzz", "pr_number": 23232, "author_type": "agent", "ci_skipped": true, "ingested_at": 1795380554.129123, "kinesis_seq": "1795296782385", "kinesis_shard": "shardId-000000000002"}
+{"repo": "org/repo-xxx", "pr_number": 11111, "author_type": "agent", "ci_skipped": true, "ingested_at": 1795380554.133099, "kinesis_seq": "1795296782386", "kinesis_shard": "shardId-000000000002"}
